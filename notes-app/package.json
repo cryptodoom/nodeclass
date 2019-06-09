@@ -1,0 +1,17 @@
+{
+  "name": "nodeclass",
+  "version": "1.0.0",
+  "description": "Notes app for class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "11.0.0",
+    "chalk": "2.4.2",
+    "nodemon": "1.19.1",
+    "yargs": "13.2.4"
+  }
+}
